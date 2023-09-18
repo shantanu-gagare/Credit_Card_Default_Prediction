@@ -19,7 +19,3 @@ Consider using logistic regression, especially if model complexity can be reduce
 Ensure the final model is not only accurate but also fast for practical deployment.
 Data Source:
 The dataset and this project are based on the research paper by Yeh, I. C., & Lien, C. H. (2009), "The comparisons of data mining techniques for the predictive accuracy of probability of default of credit card clients."
-
-Feel free to customize this README file to fit your project's context and purpose.
-
-
